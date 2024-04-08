@@ -17,4 +17,4 @@ We effectuate a LDA classification to train and test the datas. In order to clas
 
 ![signal processing ](https://github.com/Miightx/Classification-of-experimentally-acquired-EMG-signals/assets/117952621/264b751f-4d85-47b0-a4c8-72489b0ad15b)
 
-In the repository, you would be able to find the report, the results and the MATLAB code to perform the classification.
+In the repository, you will find the report, the results and the MATLAB code to perform the classification.
